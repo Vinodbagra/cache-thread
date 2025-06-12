@@ -13,10 +13,6 @@ DEBUG=true
 # Cache Configuration
 CACHE_MAX_SIZE=1000
 CACHE_TTL=30m
-
-# Database Configuration (optional - only if using database)
-DB_POSTGRE_DSN=postgres://username:password@localhost:5432/cache_db?sslmode=disable
-DB_POSTGRE_URL=postgres://username:password@localhost:5432/cache_db?sslmode=disable
 ```
 
 ## API Endpoints
